@@ -20,13 +20,5 @@
             }
 
         }
-
-        
-        // if($_POST['user_name'] == "123" && $_POST['password'] == "1234"){
-        //     header('Location: /success.php?message=success');
-        // }
-        // else {
-        //     header('Location: /kais.php?message=fail');
-        // }
     }
 ?>
